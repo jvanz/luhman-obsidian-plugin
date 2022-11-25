@@ -14,8 +14,8 @@
     "author": "",
     "license": "MIT",
     "devDependencies": {
-        "@release-it/bumper": "^2.0.0",
-        "@release-it/conventional-changelog": "^2.0.1",
+        "@release-it/bumper": "^4.0.0",
+        "@release-it/conventional-changelog": "^5.1.1",
         "@rollup/plugin-commonjs": "^18.0.0",
         "@rollup/plugin-node-resolve": "^11.2.1",
         "@rollup/plugin-typescript": "^8.2.1",
